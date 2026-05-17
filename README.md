@@ -1,4 +1,4 @@
-# Bookmeter → Booklog CSV Exporter 使い方
+# 使い方
 
 ## 1. 必要なものをインストール
 
