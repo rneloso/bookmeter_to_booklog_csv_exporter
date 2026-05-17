@@ -1,0 +1,2 @@
+# bookmeter_to_booklog_csv_exporter
+読書メーターからブクログへの移行用CSVを作成するスクリプト
