@@ -29,7 +29,7 @@ playwright install chromium
 
 ## 2. スクリプトを配置
 
-`bookmeter_to_booklog_simple_v2.py`
+`bookmeter_to_booklog.py`
 
 を好きなフォルダに置く。
 
@@ -48,13 +48,13 @@ python bookmeter_to_booklog.py
 読書メーターのURLが:
 
 ```text
-https://bookmeter.com/users/802850
+https://bookmeter.com/users/123456
 ```
 
 なら、
 
 ```text
-802850
+123456
 ```
 
 だけ入力する。
